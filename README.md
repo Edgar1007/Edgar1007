@@ -1,6 +1,6 @@
 ## Hi there 👋
-<div style="display: flex;justify-content:center">
-    <h1 style="color:white; font-size: 2vw;text-align:center;font-family:Georgia, 'Times New Roman', Times, serif">¡Bienvenidos a mi perfil!</h1>
+<div style="display: flex;justify-content:center;align-items:center">
+    <h1 style="padding:0 0 0 30vw;color:red; font-size: 2vw;text-align:center;font-family:Georgia, 'Times New Roman', Times, serif">¡Bienvenidos a mi perfil!</h1>
 </div>
 
 <!--
