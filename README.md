@@ -1,6 +1,7 @@
 ## Hi there 👋
-<div style="display: flex;justify-content:center;align-items:center">
-    <h1 style="padding:0 0 0 30vw !important;color:red; font-size: 2vw;text-align:center;font-family:Georgia, 'Times New Roman', Times, serif">¡Bienvenidos a mi perfil!</h1>
+<h1 align="center">¡Bienvenidos a mi perfil! 👁️</h1>
+<div align="center">
+  <img src="/web/static/img/screenshots/homepage.gif" height=360>
 </div>
 
 <!--
