@@ -1,5 +1,8 @@
 ## Hi there 👋
-<h1 style="color:white; font-size: 2vw !important;text-align:center !important;font-family:Georgia, 'Times New Roman', Times, serif">¡Bienvenidos a mi perfil!</h1>
+<div style="display: flex;justify-content:center">
+    <h1 style="color:white; font-size: 2vw;text-align:center;font-family:Georgia, 'Times New Roman', Times, serif">¡Bienvenidos a mi perfil!</h1>
+</div>
+
 <!--
 **Edgar1007/Edgar1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
