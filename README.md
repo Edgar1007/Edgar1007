@@ -1,9 +1,12 @@
-## Hi there 👋
-<h1 align="center" style="color:blue">¡Bienvenidos a mi perfil!</h1>
+<h1 align="center" style="color:blue !important;">¡Bienvenidos a mi perfil!</h1>
 <h1 align="center">Aqui encontraran algunos de mis repositorios acerca de mis trabajos realizados para backend y frontend</h1>
 <div align="center">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thu…/d/d9/Node.js_logo.svg/400px-Node.js_logo.svg.png" height=360>
 </div>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thu…or_logo.svg/250px-Angular_full_color_logo.svg.png" height=360>
+</div>
+<h2 align="center">En este perfil amamos NodeJs y Angular <3 </h2>
 
 <!--
 **Edgar1007/Edgar1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
