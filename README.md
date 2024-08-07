@@ -1,5 +1,6 @@
 ## Hi there 👋
-<h1 align="center">¡Bienvenidos a mi perfil! 👁️</h1>
+<h1 align="center" style="color:blue">¡Bienvenidos a mi perfil!</h1>
+<h1 align="center">Aqui encontraran algunos de mis repositorios acerca de mis trabajos realizados para backend y frontend</h1>
 <div align="center">
   <img src="/web/static/img/screenshots/homepage.gif" height=360>
 </div>
